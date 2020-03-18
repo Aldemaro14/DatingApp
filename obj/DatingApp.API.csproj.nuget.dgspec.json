@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "c:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "C:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\Orus\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\Users\\Orus\\Desktop\\dotnetAndAngular\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Orus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
